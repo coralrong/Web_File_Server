@@ -1,0 +1,23 @@
+        body {
+            background-image: url("http://127.0.0.1:7777/html/image/login_background.jpg");
+            background-size: 100%;
+            background-repeat: no-repeat;
+        }
+
+        #bo {
+            width: 400px;
+            height: 100px;
+            padding: 13px;
+
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-left: -200px;
+            margin-top: -200px;
+
+            background-color: rgba(219, 230, 230, 0.5);
+            font-size: 25px;
+            font-weight: 700;
+            border-radius: 10px;
+            text-align: center;
+        }
